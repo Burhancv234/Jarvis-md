@@ -12,29 +12,29 @@ services:
       - key: SESSION_ID
         sync: false
       - key: BOT_INFO
-        value: ᴊᴀʀᴠɪꜱ;ʟᴏᴋɪ-xᴇʀ;https://i.imgur.com/VIpl3q5.mp4
+        value:ꪶ 𝐔͢𝚩 𝚳𝚨͢𝐃 𝚱𝚰𝐋͢𝐋𝚵͢𝚪 叏 ⁹⁹⁹;ᴋɪʟʟᴇʀ;https://i.imgur.com/lI2qlDX.jpeg
       - key: WARN_COUNT
         value: 3
       - key: MEDIA_DATA
-        value: ʟɪꜱᴛ ᴍᴇɴᴜ;ᴊᴀʀᴠɪꜱ-ᴍᴅ;https://i.imgur.com/ltPPMTh.jpeg
+        value: ꪶ 𝐔͢𝚩 𝚳𝚨͢𝐃 𝚱𝚰𝐋͢𝐋𝚵͢𝚪 叏 ⁹⁹⁹;ᴋɪʟʟᴇʀ;https://i.imgur.com/lI2qlDX.jpeg
       - key: HANDLER
-        value: /
+        value:.
       - key: WORK_TYPE
         value: private
       - key: STICKER_PACKNAME
-        value: ʟᴏᴋɪ;xᴇʀ
+        value: ᴍᴀᴅ;xᴇʀ
       - key: AUDIO_DATA
-        value: ʟᴏᴋɪ-xᴇʀ;ᴊᴀʀᴠɪꜱ;https://i.imgur.com/VgxJeCm.jpeg
+        value:ꪶ 𝐔͢𝚩 𝚳𝚨͢𝐃 𝚱𝚰𝐋͢𝐋𝚵͢𝚪 叏 ⁹⁹⁹;ᴋɪʟʟᴇʀ;https://i.imgur.com/lI2qlDX.jpeg
       - key: SUDO
-        value: 917025673121
+        value: 919995790973,919605832165
       - key: ALLWAYS_ONLINE
-        value: false
+        value: true
       - key: READ_MSG
-        value: false
+        value: true
       - key: SAVE_STATUS
         value: false
       - key: STATUS_VIEW
-        value: false
+        value: true
       - key: REJECT_CALL
         value: false
       - key: ERROR_MSG
